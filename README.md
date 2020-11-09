@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning Deep learning
 - 💬 Ask me about python, Ml, DL
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/shubham-verma-011297167/)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shubham9471)](https://github.com/anuraghazra/github-readme-stats)
