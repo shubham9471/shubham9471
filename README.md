@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ I'm an entry-level Data Analyst/Machine Learning and Data Science roles.
+⚡ I'm looking for an entry-level Data Analyst/Machine Learning and Data Science roles.
 
 🌱 Used my skills to build a portfolio of projects, now eager to apply the same knowledge to real-world business problems.
 
