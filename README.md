@@ -18,7 +18,7 @@
   
 ### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
   
-I hold a degree in **Electrical Engineering** :mortar_board: and have a strong passion for <b>programming</b>, specifically in the areas of <b>Problem-Solving and Backend Development</b>. My expertise also covers Front-end Development and Machine Learning, and I'm presently broadening my skills in Backend Development and AWS S3. Currently, I work as a <b>Software Development Engineer (SDE) at Amygb.ai.</b> If you'd like to connect and interact with me, you can usually find me most active on <a href="https://www.linkedin.com/in/shubham-verma-011297167/" target="_blank">LinkedIn</a>. Feel free to get in touch!
+I hold a degree in **Electrical Engineering** :mortar_board: and have a strong passion for <b>programming</b>, specifically in the areas of <b>Problem-Solving and Backend Development</b>. My expertise also covers Front-end Development and Machine Learning, and I'm presently broadening my skills in Backend Development and AWS S3. Currently, I work as a <b>Software Development Engineer (SDE) at Liminal Custody.</b> If you'd like to connect and interact with me, you can usually find me most active on <a href="https://www.linkedin.com/in/shubham-verma-011297167/" target="_blank">LinkedIn</a>. Feel free to get in touch!
   
 ### :1st_place_medal: Some of my achievements:
 
